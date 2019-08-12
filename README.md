@@ -8,3 +8,5 @@
 <h4>DIM TABLE s3://emrnycdataloading/dim_vehicle_tbl</h4>   
 <h4>DIM TABLE s3://emrnycdataloading/dim_violation_tbl</h4>   
       
+![ER Model](NYCData_ER-model.png)
+      
