@@ -75,7 +75,7 @@ __Star Schema Data Model__
 ![ER Model](NYCData_ER-model.png)
 
 
-__Instructions__
+__Instructions__ <br>
   [initial load spark script](inital_load.py) 
   - Populates Dim tables and fact tables as initial process
   - used as a Seeding process to populate SK values
