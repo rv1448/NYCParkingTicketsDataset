@@ -8,6 +8,7 @@
  __Primary Data__
   - This is a collection of Parking Violations Issued Fiscal Year 2016. 
   - This contains 43 fields, with 10.8 Million rows
+  - Its a Comma seperated file
 > source: Kaggle
 [Download link](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)  
  
@@ -15,7 +16,7 @@
   - Took the volation cd and the price charged for the respective violations
 > source: City of Newyork Website  
  
- __Fields__ 
+ __Input Fields__ 
   - Below are the fields present in the file 
 
 ```
