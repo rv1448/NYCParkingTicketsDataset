@@ -1,12 +1,13 @@
 ## NYC parking dataset 
 
 ### Data Sets <br>
- __Primary Data
+ __Primary Data__
   - This is a collection of Parking Violations Issued Fiscal Year 2016. 
   - This contains 43 fields, with 10.8 Million rows
-`source: Kaggle [Download link](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)`  
+> source: Kaggle
+[Download link](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)  
  
- __lookup Data
+ __lookup Data__
   - Took the volation cd and the price charged for the respective violations
 `source: City of Newyork Website` 
  
